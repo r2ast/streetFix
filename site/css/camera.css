@@ -260,14 +260,14 @@
   -moz-border-radius: 50%;
   border-radius: 50%;
   background-color: transparent;
-  border: 3px solid #1caffc;
+  border: 3px solid #e31e25;
   -moz-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
   transition: 0.3s all ease;
 }
 .camera_pag_ul li.cameracurrent, .camera_pag_ul li:hover {
-  background: #1caffc;
+  background: #e31e25;
 }
 .camera_pag_ul li + li {
   margin-left: 11px;
@@ -351,7 +351,7 @@
   float: right;
 }
 .onCamera .bg-primary {
-  background-color: rgba(28, 175, 252, 0.85);
+  background-color: #f44c54;
 }
 .onCamera h3 {
   letter-spacing: 0.06em;

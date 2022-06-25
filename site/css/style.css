@@ -5776,7 +5776,7 @@ h1, h2, h3, h4, h5, h6, .heading-1, .heading-2, .heading-3, .heading-4, .heading
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .heading-1 a, .heading-2 a, .heading-3 a, .heading-4 a, .heading-5 a, .heading-6 a {
   display: inline;
-  color: #1caffc;
+  color: #e31e25;
 }
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .heading-1 a:hover, .heading-2 a:hover, .heading-3 a:hover, .heading-4 a:hover, .heading-5 a:hover, .heading-6 a:hover {
   color: #232a33;
@@ -5884,7 +5884,7 @@ a {
   transition: 0.3s;
 }
 a:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 a:focus {
   outline: none;
@@ -5900,7 +5900,7 @@ a[href^="callto:"] {
 }
 a[href^="tel:"]:hover,
 a[href^="callto:"]:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 
 .fa {
@@ -5997,7 +5997,7 @@ a[href^="callto:"]:hover {
 }
 
 .text-primary {
-  color: #1caffc;
+  color: #e31e25;
 }
 
 /*
@@ -6443,7 +6443,7 @@ blockquote p {
 * @subsection Backgrounds
 */
 .bg-primary {
-  background-color: #1caffc;
+  background-color: #e31e25;
   color: #fff;
 }
 .bg-primary h1, .bg-primary h2, .bg-primary h3, .bg-primary h4, .bg-primary h5, .bg-primary h6, .bg-primary .heading-1, .bg-primary .heading-2, .bg-primary .heading-3, .bg-primary .heading-4, .bg-primary .heading-5, .bg-primary .heading-6 {
@@ -6453,11 +6453,11 @@ blockquote p {
   color: #fff;
 }
 .bg-primary .mfDatePicker a:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 .bg-primary .icon-primary {
   background-color: #fff;
-  color: #1caffc;
+  color: #e31e25;
 }
 .bg-primary .icon-primary-variant-1 {
   color: #fff;
@@ -6473,11 +6473,11 @@ blockquote p {
 }
 .bg-primary .btn.btn-primary:hover {
   background-color: #fff;
-  color: #1caffc;
+  color: #e31e25;
 }
 .bg-primary .btn.btn-primary-variant-1 {
   background-color: #fff;
-  color: #1caffc;
+  color: #e31e25;
   border: 2px solid #fff;
 }
 .bg-primary .btn.btn-primary-variant-1:hover {
@@ -6515,13 +6515,13 @@ blockquote p {
   color: #fff;
 }
 .bg-default h1.text-primary, .bg-default h2.text-primary, .bg-default h3.text-primary, .bg-default h4.text-primary, .bg-default h5.text-primary, .bg-default h6.text-primary, .bg-default .heading-1.text-primary, .bg-default .heading-2.text-primary, .bg-default .heading-3.text-primary, .bg-default .heading-4.text-primary, .bg-default .heading-5.text-primary, .bg-default .heading-6.text-primary {
-  color: #1caffc;
+  color: #e31e25;
 }
 .bg-default a {
   color: #fff;
 }
 .bg-default a:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 
 /*
@@ -6532,14 +6532,14 @@ blockquote p {
   text-align: center;
 }
 .icon-primary {
-  background-color: #1caffc;
+  background-color: #e31e25;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
 }
 .icon-primary-variant-1 {
-  color: #1caffc;
+  color: #e31e25;
 }
 .icon-primary-variant-2 {
   color: #5e6e84;
@@ -6654,7 +6654,7 @@ blockquote p {
   border-color: #fff;
 }
 .btn.btn-primary {
-  color: #1caffc;
+  color: #e31e25;
   background-color: transparent;
   border: 2px solid #fff;
 }
@@ -6662,9 +6662,9 @@ blockquote p {
   background-color: #fff;
 }
 .btn.btn-primary-variant-1 {
-  background-color: #1caffc;
+  background-color: #e31e25;
   color: #fff;
-  border: 2px solid #1caffc;
+  border: 2px solid #e31e25;
 }
 .btn.btn-primary-variant-1:hover {
   border: 2px solid #fff;
@@ -6875,13 +6875,13 @@ blockquote p {
   top: 0;
   font-weight: 400;
   font-size: 12px;
-  color: #1caffc;
+  color: #e31e25;
 }
 .marked-list li + li {
   margin-top: 17px;
 }
 .marked-list a:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 
 .index-list {
@@ -6908,7 +6908,7 @@ blockquote p {
   line-height: 1;
   text-align: center;
   color: #fff;
-  background-color: #1caffc;
+  background-color: #e31e25;
 }
 @media (max-width: 767px) {
   .index-list li:before {
@@ -6947,7 +6947,7 @@ blockquote p {
   font-size: 24px;
   line-height: 46px;
   color: #fff;
-  background: #1caffc;
+  background: #e31e25;
   border-radius: 50%;
   position: fixed;
   right: 40px;
@@ -7146,7 +7146,7 @@ footer a {
   color: #fff;
 }
 footer a:hover {
-  color: #1caffc;
+  color: #e31e25;
 }
 footer a[href^="callto:"] {
   color: #fff;
